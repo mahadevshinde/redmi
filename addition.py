@@ -1,0 +1,5 @@
+print ("enter first valu :")
+a = int (input())
+print ("enter second valu :")
+b = int (input())
+print ("sum of two no is :",a+b)
